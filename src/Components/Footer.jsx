@@ -12,11 +12,11 @@ const Footer = () => {
       <div className='flex flex-col mt-10 justify-around items-center '>
       <div className=" flex flex-row md:justify-around  items-center ">
       <ul className=" hidden  md:flex md:flex-row md:gap-8 md:ml-14 md:text-2xl border-b border-neutral-400 text-white">
-            <li className="hover:text-neutral-400 cursor-pointer "><Link to={About}>AboutMe</Link></li>
-            <li className="hover:text-neutral-400 cursor-pointer"><Link to={Experience}>Experience</Link></li>
-            <li className="hover:text-neutral-400 cursor-pointer"><Link to={Projects}>Projects</Link></li>
-            <li className="hover:text-neutral-400 cursor-pointer"><Link to={Skills}>Skills</Link></li>
-            <li className="hover:text-neutral-400 cursor-pointer"><Link to={ContactMe}>Contact</Link></li>
+            <li className="hover:text-neutral-400 cursor-pointer "><a href="#about">About</a></li>
+            <li className="hover:text-neutral-400 cursor-pointer"><a href='#experience'>Experience</a></li>
+            <li className="hover:text-neutral-400 cursor-pointer"><a href='#projects'>Projects</a></li>
+            <li className="hover:text-neutral-400 cursor-pointer"><a href='#skills'>Skills</a></li>
+            <li className="hover:text-neutral-400 cursor-pointer"><a href='#contact'>Contact</a></li>
           </ul>
           
       </div>

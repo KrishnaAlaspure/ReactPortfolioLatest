@@ -6,7 +6,7 @@ import avatar from '../img/Profile1.jpg'
 
 const Home = () => {
   return (
-    <div className='text-white flex flex-col md:flex-row  w-full md:justify-between items-center p-10 md:p-20 gap-5 md:gap-50'>
+    <div id='home' className='text-white flex flex-col md:flex-row  w-full md:justify-between items-center p-10 md:p-20 gap-5 md:gap-50'>
         <div>
             <img src={avatar} className=' rounded-full' alt="" />
         </div>
@@ -20,7 +20,7 @@ const Home = () => {
                 <button className="bg-gradient-to-r from-orange-400 to-orange-900 border border-white rounded-md text-sm md:text-lg text-black px-2 hover:cursor-pointer ">
                 <a href={myPdf} download="myFile">Download file</a>
                     </button>
-                <button className="bg-gradient-to-r from-orange-400 to-orange-900 border border-white rounded-md  text-sm md:text-lg text-black px-2"><a href='#contactme'>Contact Me</a></button>
+                <button className="bg-gradient-to-r from-orange-400 to-orange-900 border border-white rounded-md  text-sm md:text-lg text-black px-2"><a href='#contact'>Contact Me</a></button>
                 </div>
                 <div className="flex justify-center mt-5">
                 <div className="flex mx-6 h-100 rounded-lg text-blue-600 hover:cursor-pointer" >
