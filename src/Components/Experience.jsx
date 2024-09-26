@@ -22,7 +22,7 @@ const Experience = () => {
             <div className="text-xl font-bold text-slate-300">Senior System Engineer</div>
         </div>
         {/* <!-- Content --> */}
-        <div className="text-slate-500">Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus.</div>
+        <div className="text-slate-500">Worked on backend technologies to create robust RESTful APIs, facilitating seamless front-end and back-end communication. Leveraged Node.js and Express.js to design endpoints and optimize performance, enhancing user experience.</div>
     </div>
 
     {/* <!-- Item #2 --> */}
@@ -35,7 +35,7 @@ const Experience = () => {
             <div className="text-xl font-bold text-slate-300">System Engineer</div>
         </div>
         {/* <!-- Content --> */}
-        <div className="text-slate-500">Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus.</div>
+        <div className="text-slate-500">I got a chance to work in a production environment, where I was responsible for developing and deploying web applications that directly impacted user experience. This opportunity allowed me to collaborate with cross-functional teams, troubleshoot real-time issues, and implement best practices for code quality and performance optimization.</div>
     </div>
 
     {/* <!-- Item #1 --> */}
@@ -48,7 +48,7 @@ const Experience = () => {
             <div className="text-xl font-bold text-slate-300">Trainee System Engineer</div>
         </div>
         {/* <!-- Content --> */}
-        <div className="text-slate-500">Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus.</div>
+        <div className="text-slate-500">Trained in Full Stack technology, with a strong emphasis on the MERN stack.</div>
     </div>
     
     

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Linkedin,Github } from 'lucide-react';
 import { Instagram } from 'lucide-react';
-import myPdf from '../PDF/KrishnaAlaspure2024.pdf'
+import KrishnaAlaspure from '../PDF/KrishnaAlaspure2024.pdf'
 import avatar from '../img/Profile1.jpg'
 
 const Home = () => {
@@ -18,7 +18,7 @@ const Home = () => {
                 <div><h1 className="text-2xl md:text-3xl text-neutral-700 md:mt-2">MERN Stack Developer</h1></div>
                 <div className="flex gap-6 justify-center items-center mt-2 md:mt-3">
                 <button className="bg-gradient-to-r from-orange-400 to-orange-900 border border-white rounded-md text-sm md:text-lg text-black px-2 hover:cursor-pointer ">
-                <a href={myPdf} download="myFile">Download file</a>
+                <a href={KrishnaAlaspure} download="myFile">Download file</a>
                     </button>
                 <button className="bg-gradient-to-r from-orange-400 to-orange-900 border border-white rounded-md  text-sm md:text-lg text-black px-2"><a href='#contact'>Contact Me</a></button>
                 </div>

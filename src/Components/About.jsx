@@ -21,7 +21,7 @@ const About = () => {
                         <div className="flex flex-col justify-center items-center p-1 md:p-2 border border-neutral-400 rounded-xl">
                             <BriefcaseBusiness size={30} />
                             <h1 className="text-md md:text-xl font-semibold">Experience</h1>
-                            <p className="text-sm md:text-lg text-neutral-400 font-medium">2+ Years</p>
+                            <p className="text-sm md:text-lg text-neutral-400 font-medium">3+ Years</p>
                             <p className="text-xs  tracking-tighter leading-tight md:text-lg text-neutral-400 font-bold md:font-medium">MERN Stack Developer</p>
                         </div>
                         <div className="flex flex-col justify-center items-center p-1  md:p-2 border border-neutral-400 rounded-xl">
@@ -34,8 +34,12 @@ const About = () => {
                     
 
                 </div>
-                <div className="flex text-center line-clamp-6 md:line-clamp-3 mt-2 text-md md:text-xl">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam ducimus architecto id beatae animi corrupti dolorem quos. Maxime libero quas illo magnam quibusdam nemo laborum ea excepturi harum ratione. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam numquam repellat eius sequi autem tempora.</p>
+                <div className="flex text-center line-clamp-6  mt-2 text-md md:text-xl">
+                    <p>Dedicated and proficient Full Stack Web Developer with three years of hands-on experience specializing in frontend development
+utilising HTML, CSS, JavaScript, React, Tailwind CSS, and TypeScript. Possessing an average proficiency in Node.js, Express.js, and
+RESTful APIs, I am keen on leveraging my skills to contribute effectively to the growth of both individuals and the company. Seeking a
+role where I can utilise my expertise to drive innovation, enhance user experiences, and foster the growth of both personal and
+organizational objectives.</p>
                 </div> 
 
             </div>
