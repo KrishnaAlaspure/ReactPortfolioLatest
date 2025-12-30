@@ -1,4 +1,3 @@
-import React from 'react'
 import yt from '../img/youtube.webp'
 import Page from '../img/Page.jpg'
 

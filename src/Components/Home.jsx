@@ -1,4 +1,3 @@
-import React from 'react'
 import { Linkedin,Github } from 'lucide-react';
 import { Instagram } from 'lucide-react';
 import KrishnaAlaspure from '../PDF/KrishnaAlaspure2024.pdf'

@@ -1,5 +1,4 @@
-import React from 'react'
-import INFY from '../img/INFY_BIG.svg'
+
 
 const Experience = () => {
   return (

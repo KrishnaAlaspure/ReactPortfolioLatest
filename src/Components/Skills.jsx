@@ -1,4 +1,4 @@
-import React from 'react'
+
 import HTML from '../img/html-1.svg'
 import CSS from '../img/css-3.svg'
 import JS from '../img/javascript-1.svg'

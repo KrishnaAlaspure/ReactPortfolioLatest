@@ -1,8 +1,7 @@
-import { Link } from 'react-router-dom'
-import React, { useState } from 'react'
+
+import { useState } from 'react'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoCloseSharp } from "react-icons/io5";
-import About from './About';
 
 const NavBar = () => {
     const [menu,setMenu]=useState(false);

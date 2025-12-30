@@ -1,10 +1,4 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import Experience from './Experience'
-import Skills from './Skills'
-import Projects from './Projects'
-import ContactMe from './ContactMe'
-import About from './About'
+
 
 const Footer = () => {
   return (
